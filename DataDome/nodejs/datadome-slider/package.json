@@ -1,0 +1,13 @@
+{
+  "name": "datadome-slider",
+  "version": "1.0.0",
+  "description": "Resolvedor de DataDome Slider usando CapSolver",
+  "main": "datadome_slider.js",
+  "scripts": {
+    "start": "node datadome_slider.js"
+  },
+  "dependencies": {
+    "capsolver-npm": "^2.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
